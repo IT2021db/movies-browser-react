@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components"
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
     html {
@@ -10,6 +10,9 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-      
+      fill: currentColor;   // a property used in spinner.svg
+      color: ${({ theme }) => theme.color.black};
+      background-color: ${({ theme }) => theme.color.whisper};
+      font-family:'Poppins', sans-serif;
     }
-;`
+`;
