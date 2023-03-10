@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/movies-browser-react/static/css/main.e6c13ad2.css",
-    "main.js": "/movies-browser-react/static/js/main.2d0ab21a.js",
-    "static/js/787.cbf59cd9.chunk.js": "/movies-browser-react/static/js/787.cbf59cd9.chunk.js",
+    "main.js": "/movies-browser-react/static/js/main.e8c650a1.js",
+    "static/media/no-result.svg": "/movies-browser-react/static/media/no-result.15adf16973757e9b48d531f73b0e9072.svg",
+    "static/media/star.svg": "/movies-browser-react/static/media/star.bdb4d9c384672787cf0c241b577d2127.svg",
+    "static/media/noPhoto.svg": "/movies-browser-react/static/media/noPhoto.d2dfefbfab7b0313b8199b98492ec197.svg",
+    "static/media/error.svg": "/movies-browser-react/static/media/error.0bbd42917cedc1c7a7ea831c63ffb80c.svg",
     "index.html": "/movies-browser-react/index.html",
-    "main.e6c13ad2.css.map": "/movies-browser-react/static/css/main.e6c13ad2.css.map",
-    "main.2d0ab21a.js.map": "/movies-browser-react/static/js/main.2d0ab21a.js.map",
-    "787.cbf59cd9.chunk.js.map": "/movies-browser-react/static/js/787.cbf59cd9.chunk.js.map"
+    "static/media/noPoster.svg": "/movies-browser-react/static/media/noPoster.e204237e193e81984f13af22660f3cfb.svg",
+    "static/media/Next.svg": "/movies-browser-react/static/media/Next.c82b80e8cfcee8d54368433e173d09a1.svg",
+    "static/media/NextOff.svg": "/movies-browser-react/static/media/NextOff.3edcd1a4e0ab67cb5568074c48f432d6.svg",
+    "static/media/videoIcon.svg": "/movies-browser-react/static/media/videoIcon.c3e4062a7e0eee96dd2793cc0592e09a.svg",
+    "static/media/Previous.svg": "/movies-browser-react/static/media/Previous.ff60807124f05676e5ccbc868933f9a2.svg",
+    "static/media/PreviousOff.svg": "/movies-browser-react/static/media/PreviousOff.61536673de5ed52e0765f707cf122bb5.svg",
+    "static/media/Arrow_up.svg": "/movies-browser-react/static/media/Arrow_up.35a7963f21172d786a703612422487b1.svg",
+    "static/media/spinner.svg": "/movies-browser-react/static/media/spinner.b3bebcde8bb350a1d774e281987da6da.svg",
+    "static/media/Arrow_down.svg": "/movies-browser-react/static/media/Arrow_down.5fd437d16ee49d7f09e69b89271a1c80.svg",
+    "static/media/clearIcon.svg": "/movies-browser-react/static/media/clearIcon.febd62385c945be8505dbd85036c026d.svg",
+    "static/media/searchIcon.svg": "/movies-browser-react/static/media/searchIcon.00ebd881380a6e162525f5ca840afd0e.svg",
+    "main.e8c650a1.js.map": "/movies-browser-react/static/js/main.e8c650a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2d0ab21a.js"
+    "static/js/main.e8c650a1.js"
   ]
 }
